@@ -1,3 +1,5 @@
+
+
 public class Arrays {
     //Take the arrays.js file, and refactor the code into Java in this file.
     int[] nums = {10, 23, 3, 4, 5, 2, 1};
